@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="profile/assets/banner-light.png">
-  <img src="profile/assets/banner-light.png" alt="BenuaTech-Core — мобильные приложения, ИИ-системы и инфраструктура" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
+  <img src="assets/banner-light.png" alt="BenuaTech-Core — мобильные приложения, ИИ-системы и инфраструктура" width="100%">
 </picture>
 
 <br>
@@ -25,7 +25,7 @@ BenuaTech-Core собирает мобильные приложения, ИИ-с
 
 <p align="center">
   <a href="https://github.com/Thebenua/portfolio-site">
-    <img src="profile/assets/campus-hero.png" width="100%" alt="Campus Life — мобильная афиша школьного сообщества">
+    <img src="assets/campus-hero.png" width="100%" alt="Campus Life — мобильная афиша школьного сообщества">
   </a>
 </p>
 
@@ -36,7 +36,7 @@ BenuaTech-Core собирает мобильные приложения, ИИ-с
 <table>
   <tr>
     <td width="96" valign="top">
-      <img src="profile/assets/glyph-orchestrator.png" width="72" alt="">
+      <img src="assets/glyph-orchestrator.png" width="72" alt="">
     </td>
     <td valign="top">
       <h3>02 · AI Agent Orchestrator</h3>
@@ -46,7 +46,7 @@ BenuaTech-Core собирает мобильные приложения, ИИ-с
   </tr>
   <tr>
     <td width="96" valign="top">
-      <img src="profile/assets/glyph-bot.png" width="72" alt="">
+      <img src="assets/glyph-bot.png" width="72" alt="">
     </td>
     <td valign="top">
       <h3>03 · Telegram Bot Template</h3>
